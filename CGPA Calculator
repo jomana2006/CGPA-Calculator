@@ -68,4 +68,5 @@ int main() {
     total_creditscore = sum_of_creditscore1 + sum_of_creditscore2;
     double CGPA = total_gradepoints / total_creditscore;
     cout << "Your CGPA is " << CGPA;
+    return 0;
 }
